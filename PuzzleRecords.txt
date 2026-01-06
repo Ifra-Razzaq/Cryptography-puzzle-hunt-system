@@ -1,0 +1,6 @@
+Roll: 11   Level: 1   Score: 0   Penalty: 1
+Roll: 22   Level: 2   Score: 5   Penalty: 3 
+Roll: 55   Level: 1   Score: 5   Penalty: 0
+Roll: 15   Level: 3   Score: 3   Penalty: 4
+Roll: 28   Level: 2   Score: 6   Penalty: 3 
+Roll: 32   Level: 3   Score: 5   Penalty: 0 Roll: 22   Level: 1   Score: 0   Penalty: 0
